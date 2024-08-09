@@ -10,4 +10,4 @@ The data being used in this case study can be found here: [Amazon Prime Movies a
 * Does Amazon Prime has more focus on TV Shows than movies in recent years
 
 ### Dashboard 
-(https://github.com/ron0496/Data-analysis-and-Data-viz-Projects/blob/main/Amazon%20Prime%20Data%20Analysis%20using%20Tableau/Prime%20Video%20Dashboard.png)
+![cheese](Amazon Prime Data Analysis using Tableau/Prime Video Dashboard.png)
