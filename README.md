@@ -12,7 +12,7 @@ The data being used in this case study can be found here: [Amazon Prime Movies a
 ![Prime Video Dashboard](https://github.com/user-attachments/assets/c7263511-4068-4e28-863e-61bed61353a9)
 
 ### Dashboard video
-https://github.com/user-attachments/assets/c4fb37c8-b655-41e9-a530-af8d628d2168
+https://github.com/user-attachments/assets/664b6dcb-d806-4832-a47f-3347ee92b8c9
 
 ### Dashboard overview:
 The dashboard shows:
