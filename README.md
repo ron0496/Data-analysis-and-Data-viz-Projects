@@ -162,7 +162,10 @@ Tools Used
 * Tableau: Used for creating interactive dashboards and visualizations.
 * SQL: Employed for querying and manipulating the HR data.
 
+[Tableau Dashboard link](https://public.tableau.com/views/HRAnalyticsDashboard_17126534279450/HRAnalyticsDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+
 [Link to the SQL Queries document](https://github.com/ron0496/Data-analysis-and-Data-viz-Projects/blob/main/HR-Analytics-Project/queries.docx)
+
 
 Screenshot of analysing Attrition Rate by Gender for different Age Group
 
@@ -177,14 +180,8 @@ https://github.com/user-attachments/assets/e39086c4-6d08-4603-b341-87bb1c784f65
 
 ### Dashboard overview:
 
+According to the insights derived :
 
-
-
-
-
-
-
-
-
-
-
+* The average attrition Rate in the company is around 16% with males almost double the number of females, with an average age of 37 years. A lower attrition rate indicates better workforce stability.
+* R&D department has the highest rate of attrition of 56% among others. Moreover, employees with Life Science as educational background are seen to be more prone to depart the organisation.
+* Job Satisfaction is highest with job roles as Sales Executive and Research Scientist.
