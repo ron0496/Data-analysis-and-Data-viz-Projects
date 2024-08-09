@@ -150,7 +150,7 @@ https://github.com/user-attachments/assets/93db8542-1b03-4dde-87f6-3ce410e5e0c6
 * Authors named Stephen King and P.G. Wodehouse has the highest number of books among all.
 * Vintage Publishers has the highest number of books published, among those, 'The curious incident of the dog in the Night-Time' having over 2 million reviews.
 
-# [Project 6: HR-Analytics- SQL & Tableau Visualization](https://github.com/ron0496/Data-analysis-and-Data-viz-Projects/tree/main/HR-Analytics-Project)
+# [Project 7: HR-Analytics- SQL & Tableau Visualization](https://github.com/ron0496/Data-analysis-and-Data-viz-Projects/tree/main/HR-Analytics-Project)
 
 ### About Project:
 
