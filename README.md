@@ -150,16 +150,30 @@ https://github.com/user-attachments/assets/93db8542-1b03-4dde-87f6-3ce410e5e0c6
 * Authors named Stephen King and P.G. Wode house has the highest number of books among all.
 * Vintage Publishers has the highest number of books published, among those, 'The curious incident of the dog in the Night-Time' having over 2 million reviews.
 
+# [Project 6: HR-Analytics- SQL & Tableau Visualization](https://github.com/ron0496/Data-analysis-and-Data-viz-Projects/tree/main/HR-Analytics-Project)
 
+### About Project:
 
+The HR Analytics Dashboards project aims to leverage various data visualization and analysis tools to provide meaningful insights into HR data. By analyzing key HR metrics, such as job satisfaction, attrtion rates, education, and age, this dashboard can assist HR professionals in making informed decisions and identifying areas for improvement.
 
+In this project, I developed HR analytics dashboards Tableau and SQL. I gathered HR data from various sources, transformed it using SQL queries, and then visualized the data using Tableau. The dashboards cover a wide range of HR metrics, including employee demographics, performance analysis, attrition rates, and department analysis. Each dashboard provides interactive visualizations and filters to allow users to explore the data and gain actionable insights.
 
+Tools Used
+* Tableau: Used for creating interactive dashboards and visualizations.
+* SQL: Employed for querying and manipulating the HR data.
 
+[Link to the SQL Queries document](https://github.com/ron0496/Data-analysis-and-Data-viz-Projects/blob/main/HR-Analytics-Project/queries.docx)
 
+Screenshot of analysing Attrition Rate by Gender for different Age Group
 
+<img width="1728" alt="img1" src="https://github.com/user-attachments/assets/47037769-3dd0-4c0c-a9f9-4ca3d08a82ec">
 
+### Dashboard: 
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/38e4f400-82e4-4d17-910a-feaaf63eb50f)
 
+### Dashboard video:
 
+### Dashboard overview:
 
 
 
