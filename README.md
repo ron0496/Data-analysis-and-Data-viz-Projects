@@ -146,7 +146,7 @@ https://github.com/user-attachments/assets/93db8542-1b03-4dde-87f6-3ce410e5e0c6
 
 ### Dashboard overview:
 
-* The User can select the Title from the dropdown list to get the book's infromation and the rating and reviews count.
+* The User can select the Title from the dropdown list to get the book's information, rating and reviews count.
 * Authors named Stephen King and P.G. Wodehouse has the highest number of books among all.
 * Vintage Publishers has the highest number of books published, among those, 'The curious incident of the dog in the Night-Time' having over 2 million reviews.
 
