@@ -6,9 +6,16 @@ Amazon Prime is another one of the most popular media and video streaming platfo
 The data being used in this case study can be found here: [Amazon Prime Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows/data) under CC0: Public Domain. It's a Business ready Dashboard that allows employees to perform data analysis for real world business related questions and scenarios such as
 * Understanding what content is available in different countries
 * Identifying similar content by matching text-based features
-* Network analysis of Actors / Directors and find interesting insights
 * Does Amazon Prime has more focus on TV Shows than movies in recent years
 
 ### Dashboard 
 ![Prime Video Dashboard](https://github.com/user-attachments/assets/c7263511-4068-4e28-863e-61bed61353a9)
 
+### Dashboard video
+https://github.com/user-attachments/assets/c4fb37c8-b655-41e9-a530-af8d628d2168
+
+### Dashboard overview:
+The dashboard shows:
+* The User can select the title from the dropdown list to get the Type, Gengre, Duration, Release Year, Cast and Description about it.
+* The Dashboard will provide interactive interface of list according to user choice of Country, Show Type and Genre.
+* The Dashboard will show total number of movies and Tv shows released each year.
