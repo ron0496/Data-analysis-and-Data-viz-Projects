@@ -16,6 +16,6 @@ https://github.com/user-attachments/assets/664b6dcb-d806-4832-a47f-3347ee92b8c9
 
 ### Dashboard overview:
 The dashboard shows:
-* The User can select the title from the dropdown list to get the Type, Gengre, Duration, Release Year, Cast and Description about it.
+* The User can select the Title from the dropdown list to get the Type, Gengre, Duration, Release Year, Cast and Description about it.
 * The Dashboard will provide interactive interface of list according to user choice of Country, Show Type and Genre.
 * The Dashboard will show total number of movies and Tv shows released each year.
