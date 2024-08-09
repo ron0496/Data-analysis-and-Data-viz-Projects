@@ -147,7 +147,7 @@ https://github.com/user-attachments/assets/93db8542-1b03-4dde-87f6-3ce410e5e0c6
 ### Dashboard overview:
 
 * The User can select the Title from the dropdown list to get the book's infromation and the rating and reviews count.
-* Authors named Stephen King and P.G. Wode house has the highest number of books among all.
+* Authors named Stephen King and P.G. Wodehouse has the highest number of books among all.
 * Vintage Publishers has the highest number of books published, among those, 'The curious incident of the dog in the Night-Time' having over 2 million reviews.
 
 # [Project 6: HR-Analytics- SQL & Tableau Visualization](https://github.com/ron0496/Data-analysis-and-Data-viz-Projects/tree/main/HR-Analytics-Project)
@@ -169,9 +169,11 @@ Screenshot of analysing Attrition Rate by Gender for different Age Group
 <img width="1728" alt="img1" src="https://github.com/user-attachments/assets/47037769-3dd0-4c0c-a9f9-4ca3d08a82ec">
 
 ### Dashboard: 
-![HR Analytics Dashboard](https://github.com/user-attachments/assets/38e4f400-82e4-4d17-910a-feaaf63eb50f)
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/0d6bd314-93cd-4d58-849b-53aed7b1097e)
 
 ### Dashboard video:
+
+https://github.com/user-attachments/assets/e39086c4-6d08-4603-b341-87bb1c784f65
 
 ### Dashboard overview:
 
