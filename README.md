@@ -135,6 +135,40 @@ Through this, I've analyzed about
 * Publishers with highest number of books published
 * Total books published Yearly
 
+[Tableau Dashboard link](https://public.tableau.com/views/Goodreads_17138660342710/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### Dashboard: 
+![Dashboard](https://github.com/user-attachments/assets/05aea816-2a29-4a1c-a8d3-1cc9bea740fb)
+
+### Dashboard video:
+
+https://github.com/user-attachments/assets/93db8542-1b03-4dde-87f6-3ce410e5e0c6
+
+### Dashboard overview:
+
+* The User can select the Title from the dropdown list to get the book's infromation and the rating and reviews count.
+* Authors named Stephen King and P.G. Wode house has the highest number of books among all.
+* Vintage Publishers has the highest number of books published, among those, 'The curious incident of the dog in the Night-Time' having over 2 million reviews.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
