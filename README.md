@@ -123,7 +123,17 @@ According to the insights derived :
 
 * Carlo Ancelotti (191), Sir Alex Ferguson (190) and Arsene Wenger (178) are the top three coaches with the highest appearance.
 
+# [Project 6: Goodread books analysis](https://github.com/ron0496/Data-analysis-and-Data-viz-Projects/tree/main/Goodread%20books%20analysis)
 
+### About Project:
+As one of the world’s most influential reading sites, Goodreads provides a platform for people interested in talking about books. Word of mouth is one of the most powerful driving forces for book recommendation, and the social attributes of Goodreads have magnified the word-of-mouth effect of books. This goodreads datasets contains all the listed books on GoodRead books platform. The datset contain 12 columns, which include the books infromation and the rating and reviews count. The dataset in this project is from Kaggle about [GoodReads books](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks/data).
+
+Through this, I've analyzed about
+
+* Some of the top rated books and top 20 authors 
+* Different categories of books on Goodreads
+* Publishers with highest number of books published
+* Total books published Yearly
 
 
 
