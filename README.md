@@ -22,7 +22,7 @@ The dashboard shows:
 * The Dashboard will provide interactive interface of list according to user choice of Country, Show Type and Genre.
 * The Dashboard will show total number of movies and Tv shows released each year.
 
-# [Project 2: House Sales in King Country USA using Tableau](https://github.com/ron0496/Data-analysis-and-Data-viz-Projects/tree/main/House%20Sales%20in%20King%20Country%2C%20USA)
+# [Project 2: House Sales in King County USA using Tableau](https://github.com/ron0496/Data-analysis-and-Data-viz-Projects/tree/main/House%20Sales%20in%20King%20Country%2C%20USA)
 
 ### About Project:
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. The data being used in this case study is taken from Kaggle and can be found here [House Sales in King County, USA](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data). You can use this dashboard to explore various aspects of house sales in the King County area, including pricing trends, property features, and geographical distribution.
